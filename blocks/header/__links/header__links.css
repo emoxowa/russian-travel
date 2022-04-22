@@ -1,0 +1,14 @@
+.header__links {
+  display: grid;
+  grid-template-columns: auto auto;
+  list-style: none;
+  gap: 18px;
+  padding: 18px 0 4px;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .header__link {
+    padding: 14px 0 6px;
+  }
+}

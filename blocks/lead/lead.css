@@ -1,0 +1,18 @@
+.lead {
+  padding: 0 148px;
+  max-width: 1280px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .lead {
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .lead {
+  padding: 0 0;
+}
+}

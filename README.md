@@ -1,23 +1,23 @@
-# Проект: Путешествие по России
+# Project work "Russian travel" (Yandex practicum - Course “Web Developer”)
 
-### Обзор
-* Интро
-* Figma
-* Картинки
 
-**Интро**
+## Objective:
+Layout of a single-page website according to the brief.
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+This project is educational. Its purpose is to practice the acquired skills.
 
-**Figma**
+------
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+## Description:
 
-**Картинки**
+Website contains 7 blocks including header, footer.
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+List of technologies used in the project:
+ * HTML5
+ * CSS3 (Flexbox, Grid, Media Queries  Responsive)
+ * BEM (Block Element Modifier methodology)
 
-Удачи!
+The language of the website: Russian.
+
+------
+
