@@ -6,6 +6,10 @@
   text-decoration: none;
 }
 
+.header__link:hover {
+  opacity: 0.8;
+}
+
 @media (max-width: 767px) {
   .header__link {
     font-size: 18px;

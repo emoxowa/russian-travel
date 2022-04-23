@@ -5,6 +5,7 @@
   font-size: 18px;
   line-height: 122%;
   margin: 0;
+  z-index: 2;
 }
 
 @media (max-width: 767px) {
