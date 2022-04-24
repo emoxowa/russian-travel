@@ -7,7 +7,7 @@
   letter-spacing: 1.5px;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1023.9px) {
   .lead__caption {
     padding-left: 24px;
   }
