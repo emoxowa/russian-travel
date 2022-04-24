@@ -17,7 +17,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767.9px) {
   .place__paragraph {
     margin: 0 16px;
   }

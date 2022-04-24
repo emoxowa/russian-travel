@@ -10,7 +10,7 @@
   opacity: 0.8;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767.9px) {
   .header__link {
     font-size: 18px;
     line-height: 111%;

@@ -12,7 +12,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767.9px) {
   .place__title {
     font-size: 32px;
     line-height: 109%;
