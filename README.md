@@ -1,4 +1,4 @@
-# 📚 Educational project: "Russian Travel" </div>
+# 📚 Educational project: "Russian Travel"
 
 ## Introduction
 This repository contains the project work titled "Russian Travel" which is a single-page website that was developed as part of the Yandex Practicum's Web Developer course. The primary objective of the project is to practice the skills that were acquired during the course.
