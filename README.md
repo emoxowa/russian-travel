@@ -1,47 +1,20 @@
-# Project work "Russian travel" (Yandex practicum - Course “Web Developer”)
-https://emoxowa.github.io/russian-travel/
+# 📚 Educational project: "Russian Travel" </div>
+[Yandex Practicum - Course "Web Developer"](https://practicum.yandex.ru/web/)
 
-## Objective:
-Layout of a single-page website according to the Figma design.
+## Introduction
+This repository contains the project work titled "Russian Travel" which is a single-page website that was developed as part of the Yandex Practicum's Web Developer course. The primary objective of the project is to practice the skills that were acquired during the course.
 
-This project is educational. Its purpose is to practice the acquired skills.
+## Project Objective
+The main objective of this project is to create a well-designed and responsive single-page website that aligns with the Figma design.
 
-------
+## Description
+The website is designed to contain 7 blocks, including the header and footer. The primary technologies utilized in the project include HTML5, CSS3, Flexbox, Grid, Media Queries, and Responsive web design. The website has been developed using the Block Element Modifier (BEM) methodology.
 
-## Description:
+## Language
+The language used for the website is Russian.
 
-Website contains 7 blocks including header, footer.
+## Conclusion
+This project has provided an opportunity to apply the acquired web development skills and knowledge to create a well-structured, responsive, and aesthetically pleasing website. The project has been developed using the latest web development technologies and methodologies, making it a valuable learning experience for aspiring web developers.
 
-List of technologies used in the project:
- * HTML5
- * CSS3 (Flexbox, Grid, Media Queries,  Responsive)
- * BEM (Block Element Modifier methodology)
-
-The language of the website: Russian.
-
-------
-
-# Проектная работа "Путешествие по России" (Яндекс Практикум - Курс "Веб-разработчик")
-https://emoxowa.github.io/russian-travel/
-
-## Цель:
-Верстка одностраничного сайта согласно макету из Figma.
-
-Этот проект носит образовательный характер. Его цель – отработка полученных навыков.
-
-------
-
-## Описание:
-
-Сайт содержит 7 блоков, включая шапку, футер.
-
-Список технологий, используемых в проекте:
-  * HTML5
-  * CSS3 (Flexbox, Grid, медиа-запросы, адаптивная верстка) 
-  * BEM
-
-Язык сайта: русский.
-
-------
-
-
+## Website link
+To open the website, click on the following link 👉🏻: https://emoxowa.github.io/russian-travel/
